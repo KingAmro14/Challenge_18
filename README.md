@@ -16,3 +16,4 @@ Lastly, testing my PyChain ledger and user interface by running Streamlit applic
 Enter values for the sender, receiver, and amount. 
 Verify the block contents and hashes in the Streamlit drop-down menu. 
 Test the blockchain validation process by using the web interface. 
+![Alt text](Capture.PNG)
